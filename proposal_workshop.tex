@@ -410,32 +410,61 @@ We propose the following planning tentative: \\
 
 
 \section{List of confirmed speakers}
-Because of the time constraints of some of the invited speakers, we ask that the workshop happens on the second day.
+%~ Because of the time constraints of some of the invited speakers, we ask that the workshop happens on the second day.
 
 All the indicated speakers have confirmed their presence, although not all of them have been able to provide us with a title and / or abstract
 of their presentation.\\ \\
 \textbf{Speaker}: Russ Tedrake, MIT, USA \\
 \textbf{Title}:  Robust feedback stabilization through unscheduled contact.\\
-\textbf{Abstract}: TBD \\ \\
+\textbf{Abstract}: The talk will be a synthesis of the work performed in my lab during the last 5 years on the generation of locomotion movements in contact with the environment. In particular, the presentation would cover and connect the following recent results:
+\begin{itemize}
+\item selection of contact locations formalized as mixed-integer optimization;
+\item generation of whole-body movements in contact, in particular simultaneous optimization of kinematics and  central dynamics;
+\item planning and control of locomotion from dense perception \\ \\ 
+\end{itemize}
+%~ - selection of contact locations formalized as mixed-integer optimization
+%~ - generation of whole-body movements in contact, in particular
+%~ simultaneous optimization of kinematics and  central dynamics
+%~ - planning and control of locomotion from dense perception \\ \\
 %~ \textbf{Speaker}: Antonio Bicchi, University of Pisa, Italy (Unconfirmed)\\
 %~ \textbf{Title}: TBD \\
 %~ \textbf{Abstract}: TBD \\ \\
-\textbf{Speaker}: Karen C. Liu, Georgia Tech University, USA \\
-\textbf{Title}:  TBD \\
-\textbf{Abstract}: TBD  \\ \\
+\textbf{Speaker}: Andrea Del Prete, LAAS-CNRS , France \\
+\textbf{Title}:  Robust Inverse Dynamics for Torque-controlled legged
+robots \\
+\textbf{Abstract}: This presentation will focus on real-time
+programming of complex robot (such as humanoids)
+based on task sequencing. I will present an extension of the
+control framework known as Task-Space Inverse Dynamics
+that allows you to account for errors in the tracking of
+the joint torques and so to improve the robustness of the
+controller. Even if Task-Space Inverse Dynamics is a common
+approach (it has been used by a lot of teams during the DRC
+finals) it has an major flaw, that is the lack of robustness.
+In particular I am going to focus on the robustness of
+the inequality constraints, which typically model the joint
+position/velocity limits, the friction cones, the center of
+pressure limits and the torque bounds. Then I will show how
+these methods can be applied on a real robot through the
+aid of a low-level torque controller, leading to reliable and
+compliant behavior of the legged system.  \\ \\
 \textbf{Speaker}: Shunichi Nozawa, The university of Tokyo, Japan \\
 \textbf{Title}:  Planning and execution of whole-body environment and object
 manipulation with a life-sized humanoid robot \\
 \textbf{Abstract}: In this presentation, we introduce planning and execution system for whole-body environment and object manipulation with a life-sized humanoid robot by adaptive selecting of manipulation strategy and robust motion execution through haptic sensing of actual contact states and object's motion. \\ \\
 \textbf{Speaker}: Adrien Escande, CNRS/AIST, JRL, Tsukuba, Japan \\
-\textbf{Title}: TBD \\ 
-\textbf{Abstract}: TBD \\ \\
+\textbf{Title}: Multi-contact motion planning for humanoid robots: from theory to experiments \\ 
+\textbf{Abstract}: This talk will give an overview of several important aspects of multi-contact planning and control. First the problem of planning a sequence of postures in contact with the environment will be discussed through an academic example that contains most of the conceptual complexity. An effective algorithm to compute such a sequence will then be presented, able for example to compute a sequence for a humanoid robot to climb a vertical ladder. From planning to execution, we need to solve various numerical problems. We will in a second part highlight the robotics specificities of these problems (variables living on non-Euclidean manifolds, hierarchy of objectives) and discuss some ways to solve them more efficiently/easily than with classical methods. We will then show how the new solvers enable us to formulate richer problems. \\ \\
 \textbf{Speaker}: Igor Mordatch, University of Washington, USA \\
-\textbf{Title}: Contact optimization for humanoids robots \\
-\textbf{Abstract}: TBD \\ \\
+\textbf{Title}: From trajectory optimization to model learning for the locomotion of humanoids robots \\
+\textbf{Abstract}: This talk will present two contributions emblematic of recent approaches to the issue of planning dynamic trajectories for humanoid robots.
+First, I will describe Contact Invariant Optimization (CIO), a fully automatic approach for motion generation, which does not require domain knowledge speciﬁc,
+and enables simultaneous optimization of contact and behavior. I will elaborate on Ensemble-CIO, an improvement of the CIO that makes it robust to  perturbations on the perception
+and control of the actual robot. Secondly, I will describe my most recents contributions that make use of both offline and online model learning algorithms to make real-time motion generation
+achievable on real robots.  \\ \\
 \textbf{Speaker}: Quang-Cuong Pham, Nanyang Technological University, Singapore \\
-\textbf{Title}:  TBD \\
-\textbf{Abstract}: TBD \\ \\
+\textbf{Title}:  Revisiting and extending ZMP to multiple non-coplanar contacts \\
+\textbf{Abstract}: We argue that the correct viewpoint to understand the ZMP is that of weak contact stability. Based on that viewpoint and the Cone Double Description technique, we could extend ZMP to multi-contact by computing its support area in arbitrary virtual planes. Testing the dynamic equilibrium of a humanoid robot then simply boils down to checking that the ZMP computed in the virtual plane belongs to the corresponding support area. Based on these developments, we implement a whole-body controller and generate dynamically-stable motions where an HRP-4 humanoid locomotes in challenging simulation environments.   \\ \\
 \textbf{Speaker}: Steve Tonneau, LAAS CNRS, France \\
 \textbf{Title}: Interactively planning truly feasible contact sequences for legged robots.\\
 \textbf{Abstract}: Recent progress in multi contact planning hold the promise of interactively generating feasible plans for legged robots, executed on the fly.
