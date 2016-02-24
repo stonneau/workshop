@@ -1,0 +1,247 @@
+Return-Path: <nozawa@jsk.imi.i.u-tokyo.ac.jp>
+Received: from ombre.laas.fr (ombre.laas.fr [IPv6:2001:660:6602:2::7])
+	by romulus.laas.fr (8.14.4/8.14.4/Debian-2ubuntu2.1) with ESMTP id t8ADtEkI029229
+	for <stonneau@romulus>; Thu, 10 Sep 2015 15:55:17 +0200
+Received: from mxb1-2.relay.renater.fr (mx6b1-2.relay.renater.fr [IPv6:2001:660:3027:1::9] (may be forged))
+	by ombre.laas.fr (8.14.8/8.14.6) with ESMTP id t8ADtDHm022024
+	for <steve.tonneau@laas.fr>; Thu, 10 Sep 2015 15:55:14 +0200 (CEST)
+Received: from mail-lb0-f170.google.com (mail-lb0-f170.google.com [209.85.217.170])
+	by mxb1-2.relay.renater.fr (asm) with ESMTP id 14EC5280074
+	for <steve.tonneau@laas.fr>; Thu, 10 Sep 2015 15:55:13 +0200 (CEST)
+Received: by lbcjc2 with SMTP id jc2so23520167lbc.0
+        for <steve.tonneau@laas.fr>; Thu, 10 Sep 2015 06:55:11 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:sender:in-reply-to:references:from
+         :date:message-id:subject:to:cc:content-type
+         :content-transfer-encoding;
+        bh=tF5o2SW68yNiBE8UgdI6AcCF0UqM+CCd3bcvsHxmIQw=;
+        b=F5/3BCqh70lq5OyKJ2+M0ueNugux6R1+IhvxQomqmbQY0uVyDhwwUutBNr6kpBuwho
+         pM+IYgNcEh8gaF1eopjHeV1l2nRnojnsjHKQaXWKO/ld84iYJHdk+SuKqKciTic+mqaN
+         OSnOIwn2Oo/hNC+cllySaUu3Bxkd9bTUgUiuEGx3TgKJLjEo3o8o7gv/+bXTsrqlSIhZ
+         tGZjiuJu30/FWr8CQ0T1vSMrZGHtotQDoLVvRBrRaW2oUGM8pWzHZGYivLtajP/gTH4V
+         w8uBLolZE2ri/ZLTTidzaHMHAkSt9UiolPx+WOUl2JcqxZZO3kH3003EC4/gxqYYpEwZ
+         hKlg==
+X-Gm-Message-State: ALoCoQlzGLNoM4EQXH0JX82+ZO3l8EUeehTlhE2ZhmxzKCoqoE4muv5iaisYx8ddB40ZLx1vm0H2
+X-Received: by 10.152.5.71 with SMTP id q7mr752370laq.92.1441893311269; Thu,
+ 10 Sep 2015 06:55:11 -0700 (PDT)
+MIME-Version: 1.0
+Sender: nozawa@jsk.imi.i.u-tokyo.ac.jp
+Received: by 10.114.60.141 with HTTP; Thu, 10 Sep 2015 06:54:31 -0700 (PDT)
+In-Reply-To: <55F16640.1040206@laas.fr>
+References: <55D4A412.8000308@stevetonneau.fr> <55E55452.4020509@laas.fr>
+ <CALYf43ggPR4FA+=t+cXL_yWaEsrtiTch4C19WNeGdqjeE_n2mA@mail.gmail.com>
+ <55E59F1C.90206@laas.fr> <CALYf43jGM7xCgJnn9=LxNeyXzPnLcki2j4jfKDicR-cwyiZOew@mail.gmail.com>
+ <55E6A2EC.4090902@laas.fr> <55F16640.1040206@laas.fr>
+From: Shunichi Nozawa <nozawa@jsk.t.u-tokyo.ac.jp>
+Date: Thu, 10 Sep 2015 22:54:31 +0900
+X-Google-Sender-Auth: UskekA7nSqesTUP2elpEg2Niyvg
+Message-ID: <CA+TOCNd4V9Z1mtJMLapmWMawxFWT7MnE9hv8tcC+kDnJa4PsJA@mail.gmail.com>
+Subject: Re: Invitation to be a key speaker - Workshop on multi-contact
+ planning at ICRA'16
+To: Steve Tonneau <steve.tonneau@laas.fr>
+Cc: kyoin <kyoin@jsk.t.u-tokyo.ac.jp>, Inaba Masayuki <inaba@i.u-tokyo.ac.jp>
+Content-Type: text/plain; charset=UTF-8
+X-Original-Source-IP: 209.85.217.170
+X-Bizanga: IMP - mxb1-2.relay.renater.fr
+X-Renater-SpamState: 0
+X-Renater-SpamScore: -100
+X-Renater-SpamCause: gggruggvucftvghtrhhoucdtuddrfeekgedrudeigdejgecutefuodetggdotefrucfrrhhofhhilhgvmecutffgpfetvffgtfdpggftfghnshhusghstghrihgsvgenuceurghilhhouhhtmecufedttdenucesvcftvggtihhpihgvnhhtshculddquddttddmnecujfgurhepjghfhfffkffuvfgtgfesthhqredttddtjeenucfhrhhomhepufhhuhhnihgthhhiucfpohiirgifrgcuoehnohiirgifrgesjhhskhdrthdruhdqthhokhihohdrrggtrdhjpheq 
+X-Renater-ServerName: mxb1-2.relay.renater.fr
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by romulus.laas.fr id t8ADtEkI029229
+
+Dear Steve,
+
+I'm Shunichi Nozawa.
+Sorry for late reply and thank you very much for your kind invitation.
+It is an honor for us to attend to the workshop.
+
+I'll send a temporary title and abstract:
+
+Title:
+  Planning and execution of whole-body environment and object
+manipulatoin with a life-sized humanoid robot
+
+Abstract:
+  In this presentation, we introduce planning and execution system for
+whole-body environment and object manipulation with a life-sized
+humanoid robot
+  by adaptive selecting of manipulation strategy and robust motion
+execution through haptic sensing of actual contact states and object's
+motion.
+
+
+If I need to send more information, please let me know.
+
+Sincerely,
+Shunichi Nozawa
+
+2015-09-10 20:15 GMT+09:00 Steve Tonneau <steve.tonneau@laas.fr>:
+> Dear Mr Nozawa,
+> I was wondering whether you had time to consider our offer ?
+> In case you accepted, I was wondering whether you could provide us
+> with a title for your talk, even a temporary one, and eventually
+> a two line abstract for it ?
+>
+> Thanks a lot
+>
+> Steve Tonneau
+>
+> Le 02/09/2015 09:19, Steve Tonneau a écrit :
+>> Dear mister Inaba and Nozawa,
+>> thank you very much for your proposition.
+>>
+>> Mister Nozawa, it would be an honor for us if you accepted to
+>> be a speaker at our conference.
+>>
+>> If this is the case we'll indicate so in our workshop proposal,
+>> and will give you more details once the workshop has been accepted.
+>>
+>> Again, thanks a lot.
+>>
+>> Regards
+>>
+>> Steve Tonneau, Timothy Bretl, Nicolas Mansard and Igor Mordatch
+>>
+>> Le 01/09/2015 15:38, Inaba Masayuki a écrit :
+>>>
+>>> Dear Steve and others,
+>>>
+>>> Thanks, I forwarded your mail to young colleagues of my lab
+>>> who is working on your interests with real life-size humanoids.
+>>> I suggest Dr. S. Nozawa, an assistant professor tougher than me
+>>> included in cced address,
+>>> kyoin@jsk.t.u-tokyo.ac.jp <mailto:kyoin@jsk.t.u-tokyo.ac.jp>,
+>>> would meet your request around ICRA2014 paper topics.
+>>> Let him join your workshop instead of me.
+>>> He will be able to show his PhD work and recent achievements
+>>> on his whole-body manipulations on our life-size humanoids.
+>>> My best,
+>>>
+>>> -- Inaba
+>>>
+>>> 2015-09-01 21:50 GMT+09:00 Steve Tonneau <steve.tonneau@laas.fr
+>>> <mailto:steve.tonneau@laas.fr>>:
+>>>
+>>>     Dear Mister,
+>>>     thank you for your answer.
+>>>     I understand that a researcher of your importance must be really busy.
+>>>     I hope that my e mail was clear and did not suggest more work
+>>>     than I intend.
+>>>
+>>>     I was thinking that your presentation could consist in presenting
+>>>     some work you have already presented, such as your ICRA'14 paper
+>>>     on manipulation, and that we could handle the rest of the organization.
+>>>
+>>>     Thanks again for your kind answer and your encouragements.
+>>>
+>>>     Sincerely
+>>>
+>>>     Steve Tonneau
+>>>
+>>>     Le 01/09/2015 09:54, Inaba Masayuki a écrit :
+>>>     >
+>>>     > Dear Steve,
+>>>     >
+>>>     > Thank you very much for you kind invitation.
+>>>     > The request seems to need huge time for me
+>>>     > to build enough preparations to meet your request.
+>>>     > It is hard for me to do so.
+>>>     > Please find another tough speaker.
+>>>     > Looking forward to watching your good way on this research topics.
+>>>     > Best wishes,
+>>>     >
+>>>     > -- inaba
+>>>     >
+>>>     >
+>>>     > 2015-09-01 16:31 GMT+09:00 Steve Tonneau <steve.tonneau@laas.fr <mailto:steve.tonneau@laas.fr>
+>>>     > <mailto:steve.tonneau@laas.fr <mailto:steve.tonneau@laas.fr>>>:
+>>>     >
+>>>     >     Dear Mr. Inaba,
+>>>     >     I want just to remind you of our proposal to participate
+>>>     >     to our workshop as a key speaker.
+>>>     >
+>>>     >     Again, we would be honored if you accepted.
+>>>     >     We found our two other key speakers, Karen C. Liu and Abderrahmane
+>>>     >     Kheddar and are convinced that your contribution to our
+>>>     workshop would
+>>>     >     be unvaluable.
+>>>     >
+>>>     >     If however, you have to decline our offer, we were also wondering
+>>>     >     whether you could give us some advice on a possible replacement
+>>>     >     candidate?
+>>>     >
+>>>     >     Thanks a lot for your time.
+>>>     >
+>>>     >     Sincerely
+>>>     >
+>>>     >     Steve Tonneau, Timothy Bretl, Nicolas Mansard and Igor Mordatch
+>>>     >
+>>>     >     Le 19/08/2015 17:43, Steve Tonneau a écrit :
+>>>     >     > Dear M Inaba,
+>>>     >     > my name is Steve Tonneau,
+>>>     >     > and I am a post doctorate researcher at LAAS CNRS in
+>>>     Toulouse France.
+>>>     >     > Timothy Bretl, Nicolas Mansard, Igor Mordatch and myself are
+>>>     currently
+>>>     >     > writing a workshop proposal for the ICRA'16 conference.
+>>>     >     >
+>>>     >     > The objective of this workshop is to gather people working
+>>>     in the
+>>>     >     fields
+>>>     >     > of motion planning, trajectory optimisation, as well as real
+>>>     robot
+>>>     >     > control, and propose a debate on the combination of these
+>>>     various
+>>>     >     > aspects into a functional workflow for robot motions in
+>>>     constrained
+>>>     >     > environments.
+>>>     >     >
+>>>     >     > The workshop will be divided in three sessions, with
+>>>     additional debate
+>>>     >     > sessions, on the following topics:
+>>>     >     > + Motion and contact planning in cluttered environments
+>>>     >     > + Generation of contact trajectories through optimization
+>>>     >     > + Executing multi contact trajectories on actual robot
+>>>     >     >
+>>>     >     >
+>>>     >     > We believe that you would be the ideal main speaker for the
+>>>     third
+>>>     >     > session of our workshop on robot control, and would be honored
+>>>     >     > if you accepted this invitation.
+>>>     >     >
+>>>     >     > Your session would consist in a long talk (given by you, of
+>>>     about 30
+>>>     >     > min) presenting a review of the field and your work,
+>>>     followed by two
+>>>     >     > shorter presentations of about 15 mins.
+>>>     >     >
+>>>     >     > In order to enhance debate, we would require from the
+>>>     speakers, a few
+>>>     >     > months before the workshop, to recommend the reading of one
+>>>     or two
+>>>     >     > papers, available on the workshop website.
+>>>     >     > Selected groups of students will read the paper, collect
+>>>     questions
+>>>     >     asked
+>>>     >     > online by the public, and prepare a critic presentation of
+>>>     the papers
+>>>     >     > that will start a topic specific debate session.
+>>>     >     >
+>>>     >     >
+>>>     >     > We hope you are interested in our proposal. If you have any
+>>>     >     questions or
+>>>     >     > require more information, please do not hesitate to contact us.
+>>>     >     >
+>>>     >     > We look forward to your reply.
+>>>     >     >
+>>>     >     > Sincerely,
+>>>     >     >
+>>>     >     > Steve Tonneau, Timothy Bretl, Nicolas Mansard and Igor Mordatch
+>>>     >     >
+>>>     >
+>>>     >
+>>>
+>>>
+

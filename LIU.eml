@@ -1,0 +1,105 @@
+Return-Path: <karenliu@cc.gatech.edu>
+Received: from ombre.laas.fr (ombre.laas.fr [IPv6:2001:660:6602:2::7])
+	by romulus.laas.fr (8.14.4/8.14.4/Debian-2ubuntu2.1) with ESMTP id t7T7FYZE004130
+	for <stonneau@romulus>; Sat, 29 Aug 2015 09:15:38 +0200
+Received: from mxb1-2.relay.renater.fr (mx6b1-2.relay.renater.fr [IPv6:2001:660:3027:1::9] (may be forged))
+	by ombre.laas.fr (8.14.8/8.14.6) with ESMTP id t7T7FXT6005244
+	for <steve.tonneau@laas.fr>; Sat, 29 Aug 2015 09:15:33 +0200 (CEST)
+Received: from mxb1-2.relay.renater.fr (localhost [127.0.0.1])
+	by mxb1-2.relay.renater.fr (asm) with ESMTP id 63ACA2800C9
+	for <steve.tonneau+split@laas.fr>; Sat, 29 Aug 2015 09:15:33 +0200 (CEST)
+Received: from mxip3-inbound.gatech.edu (mxip3-inbound.gatech.edu [130.207.182.45])
+	by mxb1-2.relay.renater.fr (asm) with ESMTP id C0B3E2800BE;
+	Sat, 29 Aug 2015 09:15:32 +0200 (CEST)
+X-RemoteIP: 130.207.185.169
+X-Group: ZimbraSenderGroup
+X-Policy: $ZIMBRA
+X-MID: 188383151
+X-SBRS: None
+X-IronPort-AV: E=Sophos;i="5.17,429,1437451200"; 
+   d="scan'208";a="188383151"
+X-GT-Spam-Rating: (0%)
+Received: from mail9.gatech.edu ([130.207.185.169])
+  by mxip3-outbound.gatech.edu with ESMTP; 29 Aug 2015 03:15:16 -0400
+Received: from [10.0.0.5] (c-71-204-26-173.hsd1.ga.comcast.net [71.204.26.173])
+	(Authenticated sender: cliu38)
+	by mail9.gatech.edu (Postfix) with ESMTPSA id 59E6A22277B;
+	Sat, 29 Aug 2015 03:15:16 -0400 (EDT)
+Content-Type: text/plain; charset=utf-8
+Mime-Version: 1.0 (Mac OS X Mail 8.2 \(2104\))
+Subject: Re: Invitation to be a key speaker - Workshop on multi-contact planning at ICRA'16
+From: Karen Liu <karenliu@cc.gatech.edu>
+In-Reply-To: <55D2E618.2010307@laas.fr>
+Date: Sat, 29 Aug 2015 03:15:15 -0400
+Cc: "Bretl, Timothy Wolfe" <tbretl@illinois.edu>,
+        Nicolas Mansard <nmansard@laas.fr>,
+        Igor Mordatch <mordatch@cs.washington.edu>
+Message-Id: <62894205-EC60-421C-BD27-68A0E2442B6E@cc.gatech.edu>
+References: <55D2E618.2010307@laas.fr>
+To: Steve Tonneau <steve.tonneau@laas.fr>
+X-Mailer: Apple Mail (2.2104)
+X-Mailstro-Variables: bnRleHQub2lwPXM6MTMwLjIwNy4xODIuNDW4Y29udGV4dC5yYmwubGlzdD1zOrhjb250ZXh0LnJibC5zZXJ2ZXI9czq4Y29udGV4dC5zcGYucGFzcz1iOnRydWW4Y29udGV4dC5zcGYucmVhc29uPXM6uA==
+X-Original-Source-IP: 130.207.182.45
+X-Bizanga: IMP - mxb1-2.relay.renater.fr
+X-Renater-SpamState: 0
+X-Renater-SpamScore: -100
+X-Renater-SpamCause: gggruggvucftvghtrhhoucdtuddrfeekfedrieejgdduvdeiucetufdoteggodetrfcurfhrohhfihhlvgemucftgffptefvgfftpdggtfgfnhhsuhgsshgtrhhisggvnecuuegrihhlohhuthemuceftddtnecusecvtfgvtghiphhivghnthhsucdlqddutddtmdenucfjughrpegtggfuhfgjfffgkfhfvffosehtqhhmtdhhtdejnecuhfhrohhmpefmrghrvghnucfnihhuuceokhgrrhgvnhhlihhusegttgdrghgrthgvtghhrdgvughuqe 
+X-Renater-ServerName: mxb1-2.relay.renater.fr
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by romulus.laas.fr id t7T7FYZE004130
+
+Hi Steve,
+
+Sorry for the slow response.
+
+The topics of this workshop are important and well aligned with my research interests. I’d be happy to give a presentation related to contact optimization.
+
+Karen
+
+> On Aug 18, 2015, at 4:00 AM, Steve Tonneau <steve.tonneau@laas.fr> wrote:
+> 
+> Dear Ms Liu,
+> my name is Steve Tonneau,
+> and I am a post doctorate researcher at LAAS CNRS in Toulouse France.
+> Timothy Bretl, Nicolas Mansard, Igor Mordatch and myself are currently
+> writing a workshop proposal for the ICRA'16 conference.
+> 
+> The objective of this workshop is to gather people working in the fields
+> of motion planning, trajectory optimisation, as well as real robot
+> control, and propose a debate on the combination of these various
+> aspects into a functional workflow for robot motions in constrained
+> environments.
+> 
+> The workshop will be divided in three sessions, with additional debate
+> sessions, on the following topics::
+> + Motion and contact planning in cluttered environments
+> + Generation of contact trajectories through optimization
+> + Executing multi contact trajectories on actual robot
+> 
+> 
+> We believe that you would be the ideal main speaker for the second
+> session of our workshop on trajectory optimization, and would be honored
+> if you accepted this invitation.
+> 
+> Your session would consist in a long talk (given by you, of about 30
+> min) presenting a review of the field and your work, followed by two
+> shorter presentations of about 15 mins.
+> 
+> In order to enhance debate, we would require from the speakers, a few
+> months before the workshop, to recommend the reading of one or two
+> papers, available on the workshop website.
+> Selected groups of students will read the paper, collect questions asked
+> online by the public, and prepare a critic presentation of the papers
+> that will start a topic specific debate session.
+> 
+> 
+> We hope you are interested in our proposal. If you have any questions or
+> require more information, please do not hesitate to contact us.
+> 
+> We look forward to your reply.
+> 
+> Sincerely,
+> 
+> Steve Tonneau, Timothy Bretl, Nicolas Mansard and Igor Mordatch
+
+

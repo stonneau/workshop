@@ -1,0 +1,95 @@
+Return-Path: <cuong.pham@normalesup.org>
+Received: from ombre.laas.fr (ombre.laas.fr [IPv6:2001:660:6602:2::7])
+	by romulus.laas.fr (8.14.4/8.14.4/Debian-2ubuntu2.1) with ESMTP id t8A8uX3s010059
+	for <stonneau@romulus>; Thu, 10 Sep 2015 10:56:34 +0200
+Received: from mxb1-2.relay.renater.fr (mx6b1-2.relay.renater.fr [IPv6:2001:660:3027:1::9] (may be forged))
+	by ombre.laas.fr (8.14.8/8.14.6) with ESMTP id t8A8uX7H006347
+	for <steve.tonneau@laas.fr>; Thu, 10 Sep 2015 10:56:33 +0200 (CEST)
+Received: from nef2.ens.fr (nef2.ens.fr [129.199.96.40])
+	by mxb1-2.relay.renater.fr (asm) with ESMTP id 663E728016C
+	for <steve.tonneau@laas.fr>; Thu, 10 Sep 2015 10:56:33 +0200 (CEST)
+Received: from phare.normalesup.org (phare.normalesup.org [129.199.129.80])
+          by nef2.ens.fr (8.13.6/1.01.28121999) with ESMTP id t8A8uWFj028109
+          ; Thu, 10 Sep 2015 10:56:33 +0200 (CEST)
+X-Envelope-To: steve.tonneau@laas.fr
+Received: from MAE-Macbook.local (unknown [155.69.191.254])
+	by phare.normalesup.org (Postfix) with ESMTPSA id 284F2E96CA;
+	Thu, 10 Sep 2015 10:56:31 +0200 (CEST)
+Subject: Re: Invitation to be a speaker - Workshop on multi-contact planning
+ at ICRA'16
+To: Steve Tonneau <steve.tonneau@laas.fr>
+References: <55F140F9.7000606@laas.fr>
+From: Quang-Cuong Pham <cuong.pham@normalesup.org>
+Message-ID: <55F145BE.2090704@normalesup.org>
+Date: Thu, 10 Sep 2015 16:56:30 +0800
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:38.0)
+ Gecko/20100101 Thunderbird/38.2.0
+MIME-Version: 1.0
+In-Reply-To: <55F140F9.7000606@laas.fr>
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+X-Greylist: Sender IP whitelisted, not delayed by milter-greylist-4.4.3 (nef2.ens.fr [129.199.96.32]); Thu, 10 Sep 2015 10:56:33 +0200 (CEST)
+X-Original-Source-IP: 129.199.96.40
+X-Bizanga: IMP - mxb1-2.relay.renater.fr
+X-Renater-SpamState: 0
+X-Renater-SpamScore: -50
+X-Renater-SpamCause: gggruggvucftvghtrhhoucdtuddrfeekgedrudeigdduudcutefuodetggdotefrucfrrhhofhhilhgvmecutffgpfetvffgtfdpggftfghnshhusghstghrihgsvgenuceurghilhhouhhtmecufedttdenucesvcftvggtihhpihgvnhhtshculddquddttddmnegoteefjeefqddtgeculdehtddmnecujfgurhepuffvfhfhkffffgggjggtgfesthejrgdttdefjeenucfhrhhomhepsfhurghnghdqvehuohhnghcurfhhrghmuceotghuohhnghdrphhhrghmsehnohhrmhgrlhgvshhuphdrohhrgheqnecuffhomhgrihhnpehnohhrmhgrlhgvshhuphdrohhrgh 
+X-Renater-ServerName: mxb1-2.relay.renater.fr
+
+Bonjour Steve
+
+Merci beaucoup pour l'invitation que j'accepte avec plaisir, sous
+reserve que (i) au moins une de mes soumissions a ICRA soit acceptee et
+(ii) j'ai assez de funding pour aller a Stockholm :)
+
+En fonction de ce qui vous arrange, je peux presenter quelque chose dans
+le topic 1 aussi bien que dans le topic 2.
+
+Merci et bien cordialement,
+Cuong
+
+
+On 10/9/15 4:36 pm, Steve Tonneau wrote:
+> Dear M Pham
+> Timothy Bretl, Nicolas Mansard, Igor Mordatch and myself are currently
+> writing a workshop proposal for the ICRA'16 conference.
+>
+> The objective of this workshop is to gather people working in the fields
+> of motion planning, trajectory optimisation, as well as real robot
+> control, and propose a debate on the combination of these various
+> aspects into a functional workflow for robot motions in constrained
+> environments.
+>
+> The workshop will be divided in three sessions, with additional debate
+> sessions, on the following topics::
+> + Motion and contact planning in cluttered environments
+> + Generation of contact trajectories through optimization
+> + Executing multi contact trajectories on actual robot
+>
+> We would be honored to count one of you as a speaker for the session on
+> trajectory optimization.
+>
+> If you accepted to speak, you would be required to give a 15 / 20 min
+> talk during your session.
+>
+> In order to enhance debate, we would require from the speakers, a few
+> months before the workshop, to recommend the reading of one or two
+> papers, available on the workshop website.
+> Selected groups of students will read the paper, collect questions asked
+> online by the public, and prepare a critic presentation of the papers
+> that will start a topic specific debate session.
+>
+>
+> We hope you are interested in our proposal. If you have any questions or
+> require more information, please do not hesitate to contact us.
+>
+> We look forward to your reply.
+>
+> Sincerely,
+>
+> Steve Tonneau, Timothy Bretl, Nicolas Mansard and Igor Mordatch
+
+-- 
+Quang-Cuong Pham
+www.normalesup.org/~pham
+

@@ -1,0 +1,112 @@
+Return-Path: <russt@csail.mit.edu>
+Received: from ombre.laas.fr (ombre.laas.fr [IPv6:2001:660:6602:2::7])
+	by romulus.laas.fr (8.14.4/8.14.4/Debian-2ubuntu2.1) with ESMTP id t8ANT0hB032105
+	for <stonneau@romulus>; Fri, 11 Sep 2015 01:29:02 +0200
+Received: from mxb1-1.relay.renater.fr (mxb1-1.relay.renater.fr [194.214.201.8])
+	by ombre.laas.fr (8.14.8/8.14.6) with ESMTP id t8ANT0ex026830
+	for <steve.tonneau@laas.fr>; Fri, 11 Sep 2015 01:29:00 +0200 (CEST)
+Received: from outgoing.csail.mit.edu (outgoing-v6.csail.mit.edu [IPv6:2001:470:8b2d:7d2:ea9a:8fff:feb2:a9e4])
+	by mxb1-1.relay.renater.fr (asm) with ESMTP id E52C6600017
+	for <steve.tonneau@laas.fr>; Fri, 11 Sep 2015 01:28:59 +0200 (CEST)
+Received: from pool-173-48-32-112.bstnma.fios.verizon.net ([173.48.32.112] helo=drake008.home)
+	by outgoing.csail.mit.edu with esmtpsa (TLS1.0:DHE_RSA_AES_256_CBC_SHA1:32)
+	(Exim 4.72)
+	(envelope-from <russt@csail.mit.edu>)
+	id 1ZaBGx-0000tH-Uy
+	for steve.tonneau@laas.fr; Thu, 10 Sep 2015 19:28:56 -0400
+Content-Type: text/plain; charset=windows-1252
+Mime-Version: 1.0 (Mac OS X Mail 8.2 \(2104\))
+Subject: Re: invitation to be a speaker - Workshop on multi-contact planning at ICRA'16
+From: Russ Tedrake <russt@csail.mit.edu>
+In-Reply-To: <55F1659C.7060708@laas.fr>
+Date: Thu, 10 Sep 2015 19:28:55 -0400
+Message-Id: <CE98D560-BDDB-45B6-B6B6-87A67E0C14FA@csail.mit.edu>
+References: <55F14443.1040704@laas.fr> <30FEDE32-98AC-4895-A9D3-791F48B18E93@csail.mit.edu> <55F1659C.7060708@laas.fr>
+To: Steve Tonneau <steve.tonneau@laas.fr>
+X-Mailer: Apple Mail (2.2104)
+X-Original-Source-IP: 2001:470:8b2d:7d2:ea9a:8fff:feb2:a9e4
+X-Bizanga: IMP - mxb1-1.relay.renater.fr
+X-Renater-SpamState: 0
+X-Renater-SpamScore: -100
+X-Renater-SpamCause: gggruggvucftvghtrhhoucdtuddrfeekgedrudejgdefudcutefuodetggdotefrucfrrhhofhhilhgvmecutffgpfetvffgtfdpggftfghnshhusghstghrihgsvgenuceurghilhhouhhtmecufedttdenucesvcftvggtihhpihgvnhhtshculddquddttddmnecujfgurheptggguffhjgffgffkfhfvofesthhqmhdthhdtheenucfhrhhomheptfhushhsucfvvggurhgrkhgvuceorhhushhsthestghsrghilhdrmhhithdrvgguuheq 
+X-Renater-ServerName: mxb1-1.relay.renater.fr
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by romulus.laas.fr id t8ANT0hB032105
+
+
+Robust feedback stabilization through unscheduled contact.
+
+
+
+> On Sep 10, 2015, at 7:12 AM, Steve Tonneau <steve.tonneau@laas.fr> wrote:
+> 
+> Dear Mr Tedrake,
+> I need to prove that you actually accepted to participate to the
+> workshop, and, if you agree with it I will join our conversation to the
+> proposal.
+> 
+> On a similar tone, I was wondering whether you could provide us
+> with a title for your talk, even a temporary one, and eventually
+> a two line abstract for it ?
+> 
+> Thanks a lot
+> 
+> Steve Tonneau
+> 
+> Le 10/09/2015 11:34, Russ Tedrake a écrit :
+>> Steve,
+>> 
+>> Sounds great.  I like the idea of assigned reading, and hope it plays out well.  Yes - you can count me in.
+>> 
+>> - Russ
+>> 
+>>> On Sep 10, 2015, at 4:50 AM, Steve Tonneau <steve.tonneau@laas.fr> wrote:
+>>> 
+>>> Dear M Tedrake
+>>> my name is Steve Tonneau,
+>>> and I am a post doctorate researcher at LAAS CNRS in Toulouse France.
+>>> Timothy Bretl, Nicolas Mansard, Igor Mordatch and myself are currently
+>>> writing a workshop proposal for the ICRA'16 conference.
+>>> 
+>>> The objective of this workshop is to gather people working in the fields
+>>> of motion planning, trajectory optimisation, as well as real robot
+>>> control, and propose a debate on the combination of these various
+>>> aspects into a functional workflow for robot motions in constrained
+>>> environments.
+>>> 
+>>> The workshop will be divided in three sessions, with additional debate
+>>> sessions, on the following topics:
+>>> + Motion and contact planning in cluttered environments
+>>> + Generation of contact trajectories through optimization
+>>> + Executing multi contact trajectories on actual robot
+>>> 
+>>> We believe that the diversity and the quality of your contributions in
+>>> these three areas make you an ideal speaker for our workshop.
+>>> 
+>>> We would be honored if you accepted to give a presentation during the
+>>> third session of the workshop, more oriented on actual robot control
+>>> 
+>>> 
+>>> If you accepted to speak, you would be required to give a 20 / 30 min
+>>> talk during your session.
+>>> 
+>>> In order to enhance debate, we would require from the speakers, a few
+>>> months before the workshop, to recommend the reading of one or two
+>>> papers, available on the workshop website.
+>>> Selected groups of students will read the paper, collect questions asked
+>>> online by the public, and prepare a critic presentation of the papers
+>>> that will start a topic specific debate session.
+>>> 
+>>> 
+>>> We hope you are interested in our proposal. If you have any questions or
+>>> require more information, please do not hesitate to contact us.
+>>> 
+>>> We look forward to your reply.
+>>> 
+>>> Sincerely,
+>>> 
+>>> Steve Tonneau, Timothy Bretl, Nicolas Mansard and Igor Mordatch
+>> 
+>> 
+
+
